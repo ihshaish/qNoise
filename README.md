@@ -149,8 +149,11 @@ The limit of 10% of difference for passing the test is arbitrary. But I found it
 
 ## References
 
-Please read the preprint included in the repository for further information.
-This manuscript is being prepared for its submission to a Scientific Journal.
+Please cite our paper as you use the software in your research/development:
+
+Deza, Juan I.,  Ihshaish, H. "qNoise: A generator of non-Gaussian colored noise", SoftwareX, 18, 2022,101034,
+ISSN 2352-7110, DOI:https://doi.org/10.1016/j.softx.2022.101034
+
 
 ## Collaboration
 
